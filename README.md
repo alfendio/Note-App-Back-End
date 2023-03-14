@@ -1,4 +1,4 @@
-# Note App - Back End
+# Notes App - Back End
 
 ## Tools
 - Nodemon
